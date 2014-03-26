@@ -1,0 +1,3 @@
+[submodule "config/public/wp-content/themes/designblog"]
+	path = config/public/wp-content/themes/designblog
+	url = git@github.com:mynewsdesk/designblog-wp-theme.git
